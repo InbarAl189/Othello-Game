@@ -1,0 +1,7 @@
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\Ex05.OtheloLogic\bin\Debug\Ex05.OtheloLogic.dll.config
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\Ex05.OtheloLogic\bin\Debug\Ex05.OtheloLogic.dll
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\Ex05.OtheloLogic\bin\Debug\Ex05.OtheloLogic.pdb
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\Ex05.OtheloLogic\obj\Debug\Ex05.OtheloLogic.csprojAssemblyReference.cache
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\Ex05.OtheloLogic\obj\Debug\Ex05.OtheloLogic.csproj.CoreCompileInputs.cache
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\Ex05.OtheloLogic\obj\Debug\Ex05.OtheloLogic.dll
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\Ex05.OtheloLogic\obj\Debug\Ex05.OtheloLogic.pdb

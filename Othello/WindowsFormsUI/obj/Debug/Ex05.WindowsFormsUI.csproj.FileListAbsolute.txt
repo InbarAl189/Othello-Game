@@ -1,0 +1,15 @@
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\bin\Debug\Ex05.WindowsFormsUI.exe.config
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\bin\Debug\Ex05.WindowsFormsUI.exe
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\bin\Debug\Ex05.WindowsFormsUI.pdb
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\bin\Debug\Ex05.OtheloLogic.dll
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\bin\Debug\Ex05.OtheloLogic.pdb
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\bin\Debug\Ex05.OtheloLogic.dll.config
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.csprojAssemblyReference.cache
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.FormGame.resources
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.FormGameSettings.resources
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.Properties.Resources.resources
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.csproj.GenerateResource.cache
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.csproj.CoreCompileInputs.cache
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.csproj.CopyComplete
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.exe
+D:\מדעי המחשב Hit\שנה ב\סמסטר ב\C# תכנות מונחה עצמים בסביבת דוט-נט ושפת\תרגיל מס' 5 להגשה\B19 Ex05 InbarAlaluf 313220584 ShaniElkalay 206220501\WindowsFormsUI\obj\Debug\Ex05.WindowsFormsUI.pdb
