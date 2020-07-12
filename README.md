@@ -3,6 +3,6 @@
 
 **Screenshots:**
 
-[![main.png](https://i.postimg.cc/X753yvTR/main.png)](https://postimg.cc/SJmHBmQd)
-[![start-board.jpg](https://i.postimg.cc/wjdz5pz7/start-board.jpg)](https://postimg.cc/0bZhxhbs)
-[![end-game.jpg](https://i.postimg.cc/1R2stFY0/end-game.jpg)](https://postimg.cc/8sRqX7Gs)
+[![main-resizeimage.png](https://i.postimg.cc/5tgVY524/main-resizeimage.png)](https://postimg.cc/5HXGDCzT)
+[![start-board-resizeimage.jpg](https://i.postimg.cc/nzLtvsXv/start-board-resizeimage.jpg)](https://postimg.cc/8Fx3GzB5)
+[![end-game-resizeimage.jpg](https://i.postimg.cc/43sGx2Z2/end-game-resizeimage.jpg)](https://postimg.cc/NKJSN4KR)
