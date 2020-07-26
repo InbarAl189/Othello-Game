@@ -1,6 +1,6 @@
 # Othello Game
 
-**Othello (Reversi) game, C# windows forms application, as part of C# (.NET Framework) course.**
+**Othello (Reversi) game, C# windows forms application, developed as part of C# (.NET Framework) course.** <br>
 A strategy board game for two players.
 
 
